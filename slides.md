@@ -19,7 +19,7 @@ themeConfig:
 <div class="prep-eyebrow">Introducción a Python</div>
 
 <div style="font-size: 34px; font-weight: 700; font-family: 'Poppins', sans-serif; color: #0a3357;">
-  Lo básico para defenderte programando
+  Primeros pasos con el lenguaje
 </div>
 
 <div class="prep-subtitle">Variables · Tipos de datos · Operadores · Condicionales · Ciclos · Listas</div>
