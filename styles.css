@@ -106,9 +106,9 @@ body, .slidev-layout {
 }
 
 /* Los logos vienen en blanco (pensados para fondo oscuro); se invierten */
-/* a tono oscuro para que se vean bien sobre la portada clara.           */
+/* a tono oscuro (hue-rotate conserva el azul de la línea) sobre la portada clara. */
 .prep-logos {
-  filter: invert(1);
+  filter: invert(1) hue-rotate(180deg);
   opacity: 0.88;
 }
 
